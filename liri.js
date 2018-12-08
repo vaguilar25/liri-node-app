@@ -1,7 +1,6 @@
 require("dotenv").config();
 var Spotify = require('node-spotify-api');
 
-
 //var spotify = new Spotify(keys.spotify);
 //var spotify = new Spotify({
 //  id: 'cc12f274c15340fe8072c90f855dab40',
@@ -13,8 +12,33 @@ var spotify = new Spotify({
 });
 
 
-function search_track() {
-    spotify.search({ type: 'track', query: 'All the Small Things', limit: 1 }, function (err, data) {
+// take the arguments from the user
+var userSelection = process.argv[2];
+var userInput = process.argv;
+
+//If the command is to search a song in spotify
+if (userSelection === "spotify-this-song") {
+
+    var song_name = "";
+    // concatenate user input
+    for (i = 3; i < userInput.length; i++) {
+        song_name = song_name + " " + userInput[i];
+    }
+
+    //console.log (song_name);
+
+    //Search for the song
+    if (song_name.length != 0) {
+        search_track(song_name.trim());
+    } else {
+        search_track("The Sign Ace of Base");
+    }
+}
+
+
+//function to search a song
+function search_track(song) {
+    spotify.search({ type: 'track', query: song, limit: 1 }, function (err, data) {
         if (err) {
             return console.log('Error occurred: ' + err);
         }
@@ -25,20 +49,11 @@ function search_track() {
 
 
         // Go through the first page of results
-        var firstPage = data.tracks.items;
+        var songSelected = data.tracks.items;
         //console.log(firstPage);
-        console.log(
-            'The tracks in the first page are.. (popularity in parentheses)'
-        );
 
-        /*
-         * 0: All of Me (97)
-         * 1: My Love (91)
-         * 2: I Love This Life (78)
-         * ...
-         */
-        firstPage.forEach(function (track, index) {
-            console.log("======" + index + "==========");
+        songSelected.forEach(function (track, index) {
+            console.log("====== Song Information ==========");
             console.log("Artist: " + track.artists[0].name);
             console.log("The song's Name: " + track.name);
             console.log("Preview Link: " + track.external_urls.spotify);
