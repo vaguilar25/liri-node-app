@@ -20,11 +20,11 @@ var userInput = process.argv;
 
 //If the command is to search a song in spotify
 var userInputConcat = ""
+concatenateUserSelection();
 
 switch (userSelection) {
     case "spotify-this-song":
-        
-        concatenateUserSelection();
+
         if (userInputConcat.length != 0) {
             search_track(userInputConcat.trim());
         } else {
@@ -32,9 +32,20 @@ switch (userSelection) {
         }
         break;
     case "concert-this":
-       
-        concatenateUserSelection();
+
+
         getConcertInfo(userInputConcat);
+        break;
+
+    case "movie-this":
+        if (userInputConcat.length != 0) {
+            var displayNobodyInfo = false;
+            getMovieInfo(userInputConcat.trim(),displayNobodyInfo );
+
+        } else {
+            var displayNobodyInfo = true;
+            getMovieInfo("Mr. Nobody", displayNobodyInfo);
+        }
         break;
     default:
         break;
@@ -114,3 +125,44 @@ function search_track(song) {
 
 }
 
+
+// Get movie Information
+function getMovieInfo(movieName) {
+    var queryURL = "https://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+
+   // console.log(queryURL);
+    request(queryURL, function (error, response, body) {
+
+        if (!error && response.statusCode === 200) {
+            // console.log(response);
+            var movie = JSON.parse(body);
+
+
+            //console.log(movie);
+            console.log("Title of the Movie: " + movie.Title);
+            console.log("Year the movie came out:" + movie.Year);
+            console.log("IMDB Rating of the movie: " + movie.imdbRating);
+
+            if (typeof movie.Ratings[1] != 'undefined') {
+                console.log("Rotten Tomatoes Rating of the movie.:" + movie.Ratings[1].Value);
+            } else {
+                console.log("Rotten Tomatoes Rating of the movie.: N/A");
+            }
+
+            console.log("Country where the movie was produced: " + movie.Country);
+            console.log("Language of the movie: " + movie.Language);
+            console.log("Plot of the movie: " + movie.Plot);
+            console.log("Actors in the movie: " + movie.Actors);
+
+            if (displayNobodyInfo) {
+                
+                console.log("If you haven't watched \"Mr. Nobody,\" then you should: http://www.imdb.com/title/tt0485947/");
+
+                console.log("It's on Netflix!");
+            }
+
+        } else {
+            console.log(error)
+        }
+    })
+}
