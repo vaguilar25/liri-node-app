@@ -1,0 +1,411 @@
+============Concerts Information =========
+======= santana=======
+Name of the venue: House of Blues New Orleans presented by Cricket Wireless
+Location: United States, New Orleans
+Date of the Event: 12/14/2018
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/23/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/30/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/31/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/26/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 02/02/2019
+=====================
+======= santana=======
+Name of the venue: Foro Sol
+Location: Mexico, Mexico
+Date of the Event: 03/16/2019
+=====================
+======= santana=======
+Name of the venue: Acrópolis Puebla
+Location: Mexico, Puebla
+Date of the Event: 03/19/2019
+=====================
+======= santana=======
+Name of the venue: Auditorio Telmex
+Location: Mexico, Zapopan
+Date of the Event: 03/21/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/25/2019
+=====================
+======= santana=======
+Name of the venue: Al Lang Stadium
+Location: United States, St Petersburg
+Date of the Event: 04/18/2019
+=====================
+======= santana=======
+Name of the venue: Piano Hollywood
+Location: United States, Hollywood
+Date of the Event: 04/19/2019
+=====================
+======= santana=======
+Name of the venue: St. Augustine Amphitheatre
+Location: United States, St Augustine
+Date of the Event: 04/20/2019
+=====================
+======= santana=======
+Name of the venue: Grand Ole Opry
+Location: United States, Nashville
+Date of the Event: 04/22/2019
+=====================
+======= santana=======
+Name of the venue: Verizon Wireless Amphitheatre at Encore Park
+Location: United States, Alpharetta
+Date of the Event: 04/24/2019
+=====================
+======= santana=======
+Name of the venue: Parque Fundidora
+Location: Mexico, Monterrey
+Date of the Event: 03/22/2019
+=====================
+======= santana=======
+Name of the venue: The Arkansas Music Pavilion
+Location: United States, Rogers
+Date of the Event: 04/28/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/15/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/17/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/18/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/19/2019
+=====================
+======= santana=======
+Name of the venue: BankPlus Amphitheater at Snowden Grove
+Location: United States, Southaven
+Date of the Event: 04/27/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/24/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/25/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 05/22/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 01/27/2019
+=====================
+======= santana=======
+Name of the venue: House of Blues Las Vegas
+Location: United States, Las Vegas
+Date of the Event: 02/01/2019
+=================================Song Information =========
+Artist: Panic! At The Disco
+The song's Name: High Hopes
+Preview Link: https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
+Album: Pray For The Wicked
+=====================
+============Movie Information =========
+Title of the Movie: The Lord of the Rings: The Fellowship of the Ring
+Year the movie came out:2001
+IMDB Rating of the movie: 8.8
+Rotten Tomatoes Rating of the movie.:91%
+Country where the movie was produced: New Zealand, USA
+Language of the movie: English, Sindarin
+Plot of the movie: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors in the movie: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+============Movie Information =========
+Title of the Movie: Mr. Nobody
+Year the movie came out:2009
+IMDB Rating of the movie: 7.9
+Rotten Tomatoes Rating of the movie.:67%
+Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the movie: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+============ Read From File =========
+
+============Song Information =========
+Artist: Backstreet Boys
+The song's Name: I Want It That Way
+Preview Link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+=====================
+
+============Song Information =========
+Artist: Panic! At The Disco
+The song's Name: High Hopes
+Preview Link: https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom
+Album: Pray For The Wicked
+=====================
+
+============Movie Information =========
+Title of the Movie: The Avengers
+Year the movie came out:2012
+IMDB Rating of the movie: 8.1
+Rotten Tomatoes Rating of the movie.:92%
+Country where the movie was produced: USA
+Language of the movie: English, Russian, Hindi
+Plot of the movie: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+Actors in the movie: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+
+============Concerts Information =========
+======= justin timberlake=======
+Name of the venue: CenturyLink Center Omaha
+Location: United States, Omaha
+Date of the Event: 12/08/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Sprint Center
+Location: United States, Kansas City
+Date of the Event: 12/10/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Scottrade Center
+Location: United States, St Louis
+Date of the Event: 12/13/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Bankers Life Fieldhouse
+Location: United States, Indianapolis
+Date of the Event: 12/14/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Wells Fargo Center
+Location: United States, Philadelphia
+Date of the Event: 12/17/2018
+=====================
+======= justin timberlake=======
+Name of the venue: KeyBank Center
+Location: United States, Buffalo
+Date of the Event: 12/19/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Mohegan Sun Arena
+Location: United States, Uncasville
+Date of the Event: 12/21/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Capital One Arena
+Location: United States, Washington
+Date of the Event: 01/04/2019
+=====================
+======= justin timberlake=======
+Name of the venue: PNC Arena
+Location: United States, Raleigh
+Date of the Event: 01/06/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Spectrum Center
+Location: United States, Charlotte
+Date of the Event: 01/08/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Mohegan Sun Arena
+Location: United States, Uncasville
+Date of the Event: 12/22/2018
+=====================
+======= justin timberlake=======
+Name of the venue: Verizon Arena
+Location: United States, North Little Rock
+Date of the Event: 01/17/2019
+=====================
+======= justin timberlake=======
+Name of the venue: AT&T Center
+Location: United States, San Antonio
+Date of the Event: 01/19/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Toyota Center
+Location: United States, Houston
+Date of the Event: 01/22/2019
+=====================
+======= justin timberlake=======
+Name of the venue: American Airlines Center
+Location: United States, Dallas
+Date of the Event: 01/24/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Chesapeake Energy Arena
+Location: United States, Oklahoma City
+Date of the Event: 01/26/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Pepsi Center
+Location: United States, Denver
+Date of the Event: 01/28/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Madison Square Garden
+Location: United States, New York
+Date of the Event: 01/31/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Bell MTS Place
+Location: Canada, Winnipeg
+Date of the Event: 02/04/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Rogers Place
+Location: Canada, Edmonton
+Date of the Event: 02/06/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Rogers Place
+Location: Canada, Edmonton
+Date of the Event: 02/07/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Tacoma Dome
+Location: United States, Tacoma
+Date of the Event: 02/10/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Tacoma Dome
+Location: United States, Tacoma
+Date of the Event: 02/11/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Rogers Arena
+Location: Canada, Vancouver
+Date of the Event: 02/14/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Rogers Arena
+Location: Canada, Vancouver
+Date of the Event: 02/15/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Moda Center
+Location: United States, Portland
+Date of the Event: 02/18/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Valley View Casino Center
+Location: United States, San Diego
+Date of the Event: 02/21/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Honda Center
+Location: United States, Anaheim
+Date of the Event: 02/22/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Golden 1 Center
+Location: United States, Sacramento
+Date of the Event: 02/24/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Talking Stick Resort Arena
+Location: United States, Phoenix
+Date of the Event: 03/05/2019
+=====================
+======= justin timberlake=======
+Name of the venue: T-Mobile Arena
+Location: United States, Las Vegas
+Date of the Event: 03/08/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Staples Center
+Location: United States, Los Angeles
+Date of the Event: 03/10/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Save Mart Center
+Location: United States, Fresno
+Date of the Event: 03/13/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Oracle Arena
+Location: United States, Oakland
+Date of the Event: 03/15/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Sprint Center
+Location: United States, Kansas City
+Date of the Event: 03/21/2019
+=====================
+======= justin timberlake=======
+Name of the venue: CHI Health Center Omaha
+Location: United States, Omaha
+Date of the Event: 03/23/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Enterprise Center
+Location: United States, Saint Louis
+Date of the Event: 03/28/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Bankers Life Fieldhouse
+Location: United States, Indianapolis
+Date of the Event: 04/02/2019
+=====================
+======= justin timberlake=======
+Name of the venue: KeyBank Center
+Location: United States, Buffalo
+Date of the Event: 04/06/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Wells Fargo Center
+Location: United States, Philadelphia
+Date of the Event: 04/09/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Mohegan Sun Arena
+Location: United States, Uncasville
+Date of the Event: 04/12/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Philips Arena
+Location: United States, Atlanta
+Date of the Event: 01/10/2019
+=====================
+======= justin timberlake=======
+Name of the venue: FedExForum
+Location: United States, Memphis
+Date of the Event: 01/12/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Smoothie King Center
+Location: United States, New Orleans
+Date of the Event: 01/15/2019
+=====================
+======= justin timberlake=======
+Name of the venue: Mohegan Sun Arena
+Location: United States, Uncasville
+Date of the Event: 04/13/2019
+=====================
