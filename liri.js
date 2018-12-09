@@ -1,6 +1,7 @@
 require("dotenv").config();
-var Spotify = require('node-spotify-api');
-
+var Spotify = require("node-spotify-api");
+var request = require("request");
+var moment = require("moment");
 //var spotify = new Spotify(keys.spotify);
 //var spotify = new Spotify({
 //  id: 'cc12f274c15340fe8072c90f855dab40',
@@ -12,28 +13,75 @@ var spotify = new Spotify({
 });
 
 
+
 // take the arguments from the user
 var userSelection = process.argv[2];
 var userInput = process.argv;
 
 //If the command is to search a song in spotify
-if (userSelection === "spotify-this-song") {
+var userInputConcat = ""
 
-    var song_name = "";
-    // concatenate user input
+switch (userSelection) {
+    case "spotify-this-song":
+        
+        concatenateUserSelection();
+        if (userInputConcat.length != 0) {
+            search_track(userInputConcat.trim());
+        } else {
+            search_track("The Sign Ace of Base");
+        }
+        break;
+    case "concert-this":
+       
+        concatenateUserSelection();
+        getConcertInfo(userInputConcat);
+        break;
+    default:
+        break;
+
+}
+
+//function to  concatenate User Info
+
+function concatenateUserSelection() {
+    //concatenate what user is searching
     for (i = 3; i < userInput.length; i++) {
-        song_name = song_name + " " + userInput[i];
-    }
-
-    //console.log (song_name);
-
-    //Search for the song
-    if (song_name.length != 0) {
-        search_track(song_name.trim());
-    } else {
-        search_track("The Sign Ace of Base");
+        userInputConcat = userInputConcat + " " + userInput[i];
     }
 }
+// function Get concert info
+function getConcertInfo(artistName) {
+    var queryURL = "https://rest.bandsintown.com/artists/" + artistName.trim() + "/events?app_id=codingbootcamp";
+
+    console.log(queryURL);
+    request(queryURL, function (error, response, body) {
+
+        if (!error && response.statusCode === 200) {
+            // console.log(response);
+            var artist = JSON.parse(body);
+
+
+
+            for (var i = 0; i < artist.length; i++) {
+                console.log("=======" + artistName + "=======");
+                console.log("Name of the venue: " + artist[i].venue.name);
+                console.log("Location: " + artist[i].venue.country + ", " + artist[i].venue.city);
+                //console.log(artist[i].venue.city);
+                //console.log(artist[i].venue.region);
+                var date = artist[i].datetime;
+                var formatDate = moment(date).format('MM/DD/YYYY');;
+                console.log("Date of the Event: " + formatDate);
+                console.log("=====================");
+            }
+
+        } else {
+            console.log(error)
+        }
+    })
+
+}
+
+
 
 
 //function to search a song
@@ -50,7 +98,7 @@ function search_track(song) {
 
         // Go through the first page of results
         var songSelected = data.tracks.items;
-        //console.log(firstPage);
+        //console.log(data);
 
         songSelected.forEach(function (track, index) {
             console.log("====== Song Information ==========");
@@ -65,3 +113,4 @@ function search_track(song) {
     });
 
 }
+
