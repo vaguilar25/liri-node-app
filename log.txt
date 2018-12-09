@@ -409,3 +409,232 @@ Name of the venue: Mohegan Sun Arena
 Location: United States, Uncasville
 Date of the Event: 04/13/2019
 =====================
+
+============Concerts Information =========
+======= metallica=======
+Name of the venue: Save Mart Center
+Location: United States, Fresno
+Date of the Event: 12/09/2018
+=====================
+======= metallica=======
+Name of the venue: The Forum
+Location: United States, Los Angeles
+Date of the Event: 01/16/2019
+=====================
+======= metallica=======
+Name of the venue: Bridgestone Arena
+Location: United States, Nashville
+Date of the Event: 01/24/2019
+=====================
+======= metallica=======
+Name of the venue: PNC Arena
+Location: United States, Raleigh
+Date of the Event: 01/28/2019
+=====================
+======= metallica=======
+Name of the venue: U.S. Bank Arena
+Location: United States, Cincinnati
+Date of the Event: 01/30/2019
+=====================
+======= metallica=======
+Name of the venue: Quicken Loans Arena
+Location: United States, Cleveland
+Date of the Event: 02/01/2019
+=====================
+======= metallica=======
+Name of the venue: Don Haskins Center
+Location: United States, El Paso
+Date of the Event: 02/28/2019
+=====================
+======= metallica=======
+Name of the venue: United Supermarkets Arena
+Location: United States, Lubbock
+Date of the Event: 03/02/2019
+=====================
+======= metallica=======
+Name of the venue: Intrust Bank Arena
+Location: United States, Wichita
+Date of the Event: 03/04/2019
+=====================
+======= metallica=======
+Name of the venue: Sprint Center
+Location: United States, Kansas City
+Date of the Event: 03/06/2019
+=====================
+======= metallica=======
+Name of the venue: KFC Yum! Center
+Location: United States, Louisville
+Date of the Event: 03/09/2019
+=====================
+======= metallica=======
+Name of the venue: Bankers Life Fieldhouse
+Location: United States, Indianapolis
+Date of the Event: 03/11/2019
+=====================
+======= metallica=======
+Name of the venue: Van Andel Arena
+Location: United States, Grand Rapids
+Date of the Event: 03/13/2019
+=====================
+======= metallica=======
+Name of the venue: Estadio do Restelo
+Location: Portugal, Lisbon
+Date of the Event: 05/01/2019
+=====================
+======= metallica=======
+Name of the venue: Valdebebas - IFEMA
+Location: Spain, Madrid
+Date of the Event: 05/03/2019
+=====================
+======= metallica=======
+Name of the venue: Estadi Olímpic Lluís Companys
+Location: Spain, Barcelona
+Date of the Event: 05/05/2019
+=====================
+======= metallica=======
+Name of the venue: Ippodromo Snai - San Siro
+Location: Italy, Milan
+Date of the Event: 05/08/2019
+=====================
+======= metallica=======
+Name of the venue: Stadion Letzigrund
+Location: Switzerland, Zürich
+Date of the Event: 05/10/2019
+=====================
+======= metallica=======
+Name of the venue: Stade de France
+Location: France, Paris
+Date of the Event: 05/12/2019
+=====================
+======= metallica=======
+Name of the venue: Legacy Arena at The BJCC
+Location: United States, Birmingham
+Date of the Event: 01/22/2019
+=====================
+======= metallica=======
+Name of the venue: Johan Cruijff Arena
+Location: Netherlands, Nieuw-amsterdam
+Date of the Event: 06/11/2019
+=====================
+======= metallica=======
+Name of the venue: RheinEnergieSTADION
+Location: Germany, Köln
+Date of the Event: 06/13/2019
+=====================
+======= metallica=======
+Name of the venue: Stade Roi Baudouin
+Location: Belgium, Bruxelles
+Date of the Event: 06/16/2019
+=====================
+======= metallica=======
+Name of the venue: Etihad Stadium
+Location: United Kingdom, Manchester
+Date of the Event: 06/18/2019
+=====================
+======= metallica=======
+Name of the venue: Twickenham Stadium
+Location: United Kingdom, London
+Date of the Event: 06/20/2019
+=====================
+======= metallica=======
+Name of the venue: Olympiastadion
+Location: Germany, Berlin
+Date of the Event: 07/06/2019
+=====================
+======= metallica=======
+Name of the venue: Ullevi Restaurant & Conference
+Location: Sweden, Göteborg
+Date of the Event: 07/09/2019
+=====================
+======= metallica=======
+Name of the venue: Telia Parken
+Location: Denmark, Copenhagen
+Date of the Event: 07/11/2019
+=====================
+======= metallica=======
+Name of the venue: Granasen Arena
+Location: Norway, Trondheim
+Date of the Event: 07/13/2019
+=====================
+======= metallica=======
+Name of the venue: KANTOLAN TAPAHTUMAPUISTO
+Location: Finland, Hameenlinna
+Date of the Event: 07/16/2019
+=====================
+======= metallica=======
+Name of the venue: Raadi lennuväli, Tartu
+Location: Estonia, Tartu
+Date of the Event: 07/18/2019
+=====================
+======= metallica=======
+Name of the venue: The Luzhniki Stadium
+Location: Russia, Moscow
+Date of the Event: 07/21/2019
+=====================
+======= metallica=======
+Name of the venue: NATIONAL ARENA
+Location: Romania, Bucuresti
+Date of the Event: 08/14/2019
+=====================
+======= metallica=======
+Name of the venue: Ernst-Happel-Stadion
+Location: Austria, Wien
+Date of the Event: 08/16/2019
+=====================
+======= metallica=======
+Name of the venue: Letiště Praha Letňany
+Location: Czech Republic, Praha
+Date of the Event: 08/18/2019
+=====================
+======= metallica=======
+Name of the venue: PGE Narodowy
+Location: Poland, Warsaw
+Date of the Event: 08/21/2019
+=====================
+======= metallica=======
+Name of the venue: Olympiastadion
+Location: Germany, Munchen
+Date of the Event: 08/23/2019
+=====================
+======= metallica=======
+Name of the venue: SLANE CASTLE
+Location: Ireland, Co. Meath
+Date of the Event: 06/08/2019
+=====================
+======= metallica=======
+Name of the venue: BOK Center
+Location: United States, Tulsa
+Date of the Event: 01/18/2019
+=====================
+======= metallica=======
+Name of the venue: Verizon Arena
+Location: United States, North Little Rock
+Date of the Event: 01/20/2019
+=====================
+======= metallica=======
+Name of the venue: Maimarkt Gelände
+Location: Germany, Mannheim
+Date of the Event: 08/25/2019
+=====================
+
+============Concerts Information =========
+======= metal=======
+Name of the venue: PTR Usine
+Location: Switzerland, Chatelaine-geneve
+Date of the Event: 12/13/2018
+=====================
+======= metal=======
+Name of the venue: Taos Mesa Brewing Mothership
+Location: United States, El Prado
+Date of the Event: 01/26/2019
+=====================
+======= metal=======
+Name of the venue: Jugendzentrum Südpol
+Location: Germany, Recklinghausen
+Date of the Event: 02/02/2019
+=====================
+======= metal=======
+Name of the venue: Le Gesù - Centre de créativité
+Location: Canada, Montreal
+Date of the Event: 06/06/2019
+=====================

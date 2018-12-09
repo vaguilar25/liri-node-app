@@ -1,5 +1,5 @@
 require("dotenv").config();
-var Spotify = require("node-spotify-api");
+//var Spotify = require("node-spotify-api");
 var request = require("request");
 var moment = require("moment");
 var fs = require("fs");
@@ -9,11 +9,17 @@ var fs = require("fs");
 //secret: 'f44c5fc75faf429f9c1a4e59a3f394ee'
 //});
 
-
+var Spotify = require('node-spotify-api');
+var keys = require("./keys.js");
 var spotify = new Spotify({
-    id: process.env.SPOTIFY_ID,
-    secret: process.env.SPOTIFY_SECRET
+    id: keys.spotify.id,
+    secret: keys.spotify.secret
 });
+
+//var spotify = new Spotify({
+  //  id: process.env.SPOTIFY_ID,
+   // secret: process.env.SPOTIFY_SECRET
+//});
 
 
 
@@ -90,7 +96,7 @@ function getConcertInfo(artistName) {
         if (!error && response.statusCode === 200) {
 
             var artist = JSON.parse(body);
-            console.log(artist.length);
+            //console.log(artist.length);
             for (var i = 0; i < artist.length; i++) {
 
 
