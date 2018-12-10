@@ -211,7 +211,7 @@ Album: The Hits--Chapter One
 #### output the data (all the commands results) to a .txt file called log.txt
 
 
-# 6. Topics that we have covered
+##  6. Topics that we have covered
 * Use of Git: Creating a repository
 ```
     * clone 
