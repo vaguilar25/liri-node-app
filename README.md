@@ -12,7 +12,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
  
    * node liri.js concert-this <artist/band name here>   
     
-````
+```
 
 #### Result: 
 
@@ -69,7 +69,7 @@ This file will be used by the dotenv package to set what are known as environmen
  
    * node liri.js spotify-this-song <name_of_the_song>   
     
-````
+```
 
 #### Result: 
 
@@ -118,9 +118,6 @@ Album: The Sign (US Album) [Remastered]
 
 ```
 
-
-
-
 ## 3. Get information about a movie: 
 
 #### This use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key.
@@ -129,7 +126,7 @@ Album: The Sign (US Album) [Remastered]
  
    * node liri.js movie-this <movie name here>   
     
-````
+```
 
 #### Result: 
 
@@ -178,13 +175,11 @@ Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
 ## 4. Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands: 
 
-#### This use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key.
-
 ```
  
    * node liri.js do-what-it-says 
     
-````
+```
 
 #### Result: 
 
@@ -211,13 +206,12 @@ Album: The Hits--Chapter One
 ```
 
 
-## 4. Bonus
+## 5. Bonus
 
 #### output the data (all the commands results) to a .txt file called log.txt
 
 
-```
-## Topics that we have covered
+#Topics that we have covered
 * Use of Git: Creating a repository
 ```
     * clone 
@@ -225,8 +219,11 @@ Album: The Hits--Chapter One
     * commit 
     * push
 ```
+
 * Use of NodeJs
+
 ```
+
     * Node-Spotify-API
     * Request
     * Moment
