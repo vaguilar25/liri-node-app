@@ -1,13 +1,9 @@
 require("dotenv").config();
-//var Spotify = require("node-spotify-api");
+
 var request = require("request");
 var moment = require("moment");
 var fs = require("fs");
-//var spotify = new Spotify(keys.spotify);
-//var spotify = new Spotify({
-//  id: 'cc12f274c15340fe8072c90f855dab40',
-//secret: 'f44c5fc75faf429f9c1a4e59a3f394ee'
-//});
+
 
 var Spotify = require('node-spotify-api');
 var keys = require("./keys.js");
@@ -15,12 +11,6 @@ var spotify = new Spotify({
     id: keys.spotify.id,
     secret: keys.spotify.secret
 });
-
-//var spotify = new Spotify({
-  //  id: process.env.SPOTIFY_ID,
-   // secret: process.env.SPOTIFY_SECRET
-//});
-
 
 
 // take the arguments from the user
